@@ -24,3 +24,6 @@ Next I wanted to know whether Studio Ghibli movies generated more revenue over t
 
 
 Ultimately, there is no correlation between year and revenue generation. 
+
+To finish the project, I created a dashboard in Tableau with some additional graphs and graphics.
+<a>https://public.tableau.com/shared/7K7BCRTT7?:display_count=n&:origin=viz_share_link</a>
